@@ -1,0 +1,9 @@
+{
+  "short_name": "Z Challenge",
+  "name": "Zeller Code Challenge",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
