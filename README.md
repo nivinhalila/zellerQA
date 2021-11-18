@@ -10,7 +10,7 @@ A Zeller frontend developer has just finished building a feature and has handed 
 As a user I want to view a list of users filtered by their Role type. 
 
 **Acceptance criteria**
-- The design should match the following provided image 
+- The design should match the following provided image <br />
   <img src="./Requirements/zeller-customers-design.png" alt="Requirements" width="500"/>
 - The role types that a user can be filtered by are 'Admin' and 'Manager'. 
 - The feature should include unit tests
